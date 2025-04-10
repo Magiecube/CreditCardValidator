@@ -81,6 +81,3 @@ public class CreditCardValidatorApp {
 
 
 
-/* to run the code use : 
-java CreditCardValidatorApp credit_card_numbers.txt
- */
